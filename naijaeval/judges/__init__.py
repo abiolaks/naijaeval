@@ -1,0 +1,1 @@
+"""NaijaEval — Nigerian Pidgin & code-switching LLM evaluation."""
